@@ -7,7 +7,7 @@
         :class="[
             animate ? 'sphere__animation' : '' ,
             'absolute w-[200px] lg:w-[350px] h-[170px] lg:h-[290px] p-[25px] lg:p-[60px] bg-white rounded-[50%] ' +
-             'translate-x-[-50%] top-[30px] lg:top-[40px] left-[50%] text-gray-700 text-xl'
+             'translate-x-[-50%] top-[30px] lg:top-[40px] left-[50%] text-gray-700'
         ]"
     >
       {{ ans }}

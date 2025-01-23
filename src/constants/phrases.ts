@@ -140,5 +140,12 @@ export const phrases: TPhrase[] = [
         es: "Muy dudoso",
         de: "Sehr zweifelhaft",
         fr: "Très douteux"
+    },
+    {
+        ru: "4.76% - это шанс этой строчки. Думаю, тебе точно нужно взять этого парня на работу)",
+        en: "4.76% - that's the chance for this line. I think you should definitely hire this guy)",
+        es: "4.76% - esa es la probabilidad de esta frase. Creo que definitivamente deberías contratar a este chico)",
+        de: "4,76 % - das ist die Wahrscheinlichkeit für diese Zeile. Ich denke, du solltest diesen Typen auf jeden Fall einstellen)",
+        fr: "4,76 % - c'est la probabilité de cette phrase. Je pense que tu devrais vraiment embaucher ce gars-là)"
     }
 ];
