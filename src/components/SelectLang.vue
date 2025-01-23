@@ -1,7 +1,7 @@
 <template>
   <div class="w-auto">
     <Listbox v-model="selectedIndex">
-      <div class="relative mt-1">
+      <div class="relative mt-1 z-40">
         <ListboxButton
             class="min-w-[200px] relative cursor-default rounded-lg bg-white/50
             py-2 px-3 text-left focus:outline-none sm:text-sm"
